@@ -1,2 +1,2 @@
 #!/bin/sh
-python2 lab1/main.py
+python2 main.py
