@@ -77,7 +77,7 @@ def main():
 
     # instructions[0] - mode
     # instructions[1] - message
-    if instructions[0] == 'ENCRYPT':
+    if ' ' in instructions[1]:
         cyphered = encrypt(instructions[1])
         print(cyphered)
     else:
