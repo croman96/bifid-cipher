@@ -2,8 +2,7 @@
 
 Code generated for the Cybersecurity class (AD18)
 
- *  Lab 1: The Bifid Cipher
-====================================================
+##  Lab 1: The Bifid Cipher
 
 Carlos Román Rivera           A01700820
 Victor Hugo Torres Rivera     A01701017
